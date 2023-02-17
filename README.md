@@ -1,4 +1,4 @@
-# Proyectofinalupgrade
+# Proyecto final upgrade HUB
 My final project for Upgrade Hub
 
 Este es el proyecto final del bootcamp de UPGRADE HUB! 
