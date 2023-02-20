@@ -1,13 +1,9 @@
 # Proyecto final upgrade HUB
-My final project for Upgrade Hub
+Bienvenido al proyecto final del Bootcamp de UPGRADE HUB. Este proyecto se centra en recopilar y analizar datos sobre Barcelona, abarcando aspectos como la calidad del aire, paradas de autobuses, inmigración, natalidad y otros.
 
-Este es el proyecto final del bootcamp de UPGRADE HUB! 
-Mi trabajo final va sobre datos sobre barcelona, como la calidad del aire, paradas de buses, inmigracion, natalidad entre otras.
+El enfoque principal de este proyecto se ha dirigido hacia el análisis y visualización de los datos. Esto se debe a que es la parte en la que me siento más cómodo trabajando y me apasiona.
 
-He querido enfocar este proyecto mas hacia el analisis y visualizacion de los datos. No por ningun mortivo en especial simplmente porque es lo que mas 
-me gusta y me siento como trabajando con.
-
-Espero que para cualquier persona que este viendo mi proyecto le haya gustado.
+Espero que este proyecto resulte interesante para cualquier persona que lo observe. A través de él, se puede obtener una idea clara de los diferentes aspectos que influyen en la vida diaria de Barcelona.
 
 
 
