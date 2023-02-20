@@ -18,7 +18,7 @@ from branca.colormap import LinearColormap
 ## DATA SETS
 # DATA FRAMES
 paro = pd.read_csv(r'https://raw.githubusercontent.com/HerculesCastro/Proyectofinalupgrade/main/CSV/unemployment.csv')
-transporte = pd.read_csv('https://github.com/HerculesCastro/Proyectofinalupgrade/blob/main/CSV/transports.csv')
+#transporte = pd.read_csv('https://github.com/HerculesCastro/Proyectofinalupgrade/blob/main/CSV/transports.csv')
 population = pd.read_csv('https://raw.githubusercontent.com/HerculesCastro/Proyectofinalupgrade/blob/main/CSV/population.csv')
 nombres_comunes = pd.read_csv('https://raw.githubusercontent.com/HerculesCastro/Proyectofinalupgrade/blob/main/CSV/most_frequent_names.csv')
 nombres_bebes = pd.read_csv('https://raw.githubusercontent.com/HerculesCastro/Proyectofinalupgrade/blob/main/CSV/most_frequent_baby_names.csv')
