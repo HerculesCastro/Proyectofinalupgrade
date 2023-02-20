@@ -1,7 +1,6 @@
 ######### LIBRERIAS ########
 
 import streamlit as st
-import seaborn as sns
 import plotly_express as px
 import matplotlib.pyplot as plt
 import numpy as np
