@@ -1,7 +1,7 @@
 ######### LIBRERIAS ########
 
 import streamlit as st
-import plotly_express as px
+import plotly.express as px
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
